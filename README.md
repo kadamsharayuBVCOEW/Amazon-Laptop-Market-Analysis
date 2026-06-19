@@ -99,4 +99,4 @@ All data was scraped directly from publicly available Amazon.in search result pa
 
 📬 Contact
 
-Feel free to connect with me on LinkedIn or reach out via email.
+Feel free to connect with me on LinkedIn: www.linkedin.com/in/sharayu-kadam or reach out via email: sharayukadam95@gmail.com
