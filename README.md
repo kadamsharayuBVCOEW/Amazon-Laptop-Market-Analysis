@@ -8,7 +8,7 @@ Pipeline: Python (Scrape) → Excel (Store) → MySQL (Clean + Analyze) → Powe
 
 📊 Project Overview
 
-MetricValueProducts scraped1,226Products after cleaning1,152Search keywords used7Brands identified39SQL business queries written10Power BI views created6Dashboard pages4
+Metric Value Products scraped 1,226 Products after cleaning 1,152, Search keywords used 7, Brands identified 39, SQL business queries written 10, Power BI views created 6, and Dashboard pages 4
 
 
 🎯 Why This Project
@@ -18,7 +18,7 @@ Instead of using a ready-made dataset, I wanted real-world experience handling m
 
 🛠️ Tools & Technologies
 
-ToolPurposePython (requests, BeautifulSoup, pandas)Web scraping with anti-bot handlingExcelRaw data storage and initial inspectionMySQLData cleaning, business queries, viewsPower BIInteractive dashboard, DAX measures
+Tool Purpose Python (requests, BeautifulSoup, pandas)Web scraping with anti-bot handlingExcelRaw data storage and initial inspectionMySQLData cleaning, business queries, views Power BI Interactive dashboard, DAX measures
 
 
 🔄 Pipeline Walkthrough
